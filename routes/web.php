@@ -10,19 +10,18 @@
 | contains the "web" middleware group. Now create something great!
 |
 */
-
 Route::get('/', function () {
     return view('welcome');
 });
-
 //Route::get('/new', function() {
 //	return view('new');
 //});
-
 Route::get('/new', [
 	'uses' => 'PagesController@new'
 ]);
-
 Route::get('/todos', [
 	'uses' => 'TodosController@index'
+]);
+Route::post('/create/todo',[
+	'uses' => 'TodosController@store'
 ]);
