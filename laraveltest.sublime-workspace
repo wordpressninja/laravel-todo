@@ -4,8 +4,56 @@
 		"selected_items":
 		[
 			[
+				"al",
+				"alert-success \tBootstrap 4 Class"
+			],
+			[
+				"btn-s",
+				"btn-sm \tBootstrap 4 Class"
+			],
+			[
+				"input-",
+				"input-group-lg \tBootstrap 4 Class"
+			],
+			[
+				"for",
+				"form-control \tBootstrap 4 Class"
+			],
+			[
+				"b4forminp",
+				"b4:form:input:sizing\tinput-sizing"
+			],
+			[
+				"col",
+				"col-6 \tBootstrap 4 Class"
+			],
+			[
 				"tod",
-				"todos"
+				"todo"
+			],
+			[
+				"delete",
+				"delete"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b4",
+				"b4:button\tbutton"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"todo",
+				"todo"
+			],
+			[
+				"di",
+				"div\tTag"
 			],
 			[
 				"max",
@@ -64,28 +112,10 @@
 	"buffers":
 	[
 		{
-			"file": "database/factories/UserFactory.php",
-			"settings":
-			{
-				"buffer_size": 843,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "app/Http/Controllers/TodosController.php",
-			"settings":
-			{
-				"buffer_size": 275,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "routes/web.php",
 			"settings":
 			{
-				"buffer_size": 638,
+				"buffer_size": 1114,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -94,25 +124,43 @@
 			"file": "resources/views/todos.blade.php",
 			"settings":
 			{
-				"buffer_size": 2527,
+				"buffer_size": 972,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "resources/views/welcome.blade.php",
+			"file": "app/Http/Controllers/TodosController.php",
 			"settings":
 			{
-				"buffer_size": 2392,
+				"buffer_size": 1438,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".env",
+			"file": "resources/views/layout.blade.php",
 			"settings":
 			{
-				"buffer_size": 575,
+				"buffer_size": 2454,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/chrisfoster/www/laravelblog/.env",
+			"settings":
+			{
+				"buffer_size": 588,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/update.blade.php",
+			"settings":
+			{
+				"buffer_size": 369,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -140,10 +188,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "Ma",
+		"height": 212.0,
+		"last_filter": "Install",
 		"selected_items":
 		[
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
 			[
 				"Ma",
 				"Material Theme: Extras"
@@ -161,7 +213,7 @@
 				"SublimeREPL: Python"
 			]
 		],
-		"width": 463.0
+		"width": 549.0
 	},
 	"console":
 	{
@@ -183,30 +235,29 @@
 	"expanded_folders":
 	[
 		"/home/chrisfoster/www",
-		"/home/chrisfoster/www/laratest",
-		"/home/chrisfoster/www/laratest/app",
-		"/home/chrisfoster/www/laratest/app/Http",
-		"/home/chrisfoster/www/laratest/app/Http/Controllers",
-		"/home/chrisfoster/www/laratest/resources",
-		"/home/chrisfoster/www/laratest/resources/views",
-		"/home/chrisfoster/www/laratest/routes"
+		"/home/chrisfoster/www/laravelblog"
 	],
 	"file_history":
 	[
-		"/home/chrisfoster/www/laratest/database/seeds/TodosTableSeeder.php",
-		"/home/chrisfoster/www/laratest/config/app.php",
-		"/home/chrisfoster/www/laratest/database/seeds/DatabaseSeeder.php",
-		"/home/chrisfoster/www/laratest/routes/web.php",
-		"/home/chrisfoster/www/laratest/.env",
-		"/home/chrisfoster/www/laratest/app/Http/Controllers/PagesController.php",
+		"/home/chrisfoster/www/laratest/resources/views/todos.blade.php",
+		"/home/chrisfoster/www/laratest/resources/views/new.blade.php",
 		"/home/chrisfoster/www/laratest/app/Http/Controllers/TodosController.php",
+		"/home/chrisfoster/www/laratest/storage/logs/laravel.log",
+		"/home/chrisfoster/www/laratest/routes/web.php",
+		"/home/chrisfoster/www/laratest/.gitignore",
+		"/home/chrisfoster/www/laratest/resources/views/layout.blade.php",
+		"/home/chrisfoster/www/laratest/resources/views/welcome.blade.php",
+		"/home/chrisfoster/www/laratest/database/factories/UserFactory.php",
+		"/home/chrisfoster/www/Homestead/Homestead.yaml",
+		"/home/chrisfoster/www/laratest/config/app.php",
+		"/home/chrisfoster/www/laratest/.env",
+		"/home/chrisfoster/www/laratest/database/seeds/TodosTableSeeder.php",
+		"/home/chrisfoster/www/laratest/database/seeds/DatabaseSeeder.php",
+		"/home/chrisfoster/www/laratest/app/Http/Controllers/PagesController.php",
 		"/home/chrisfoster/www/laratest/database/migrations/2017_10_08_231307_create_to_dos_table.php",
 		"/home/chrisfoster/www/laratest/app/ToDo.php",
-		"/home/chrisfoster/www/laratest/resources/views/welcome.blade.php",
-		"/home/chrisfoster/www/laratest/resources/views/new.blade.php",
 		"/home/chrisfoster/www/laratest/database/migrations/2017_10_08_221955_create_to_dos_table.php",
 		"/home/chrisfoster/www/laratest/app/Http/Controllers/Controller.php",
-		"/home/chrisfoster/www/Homestead/Homestead.yaml",
 		"/home/chrisfoster/www/Homestead/.vagrant/machines/homestead-7/virtualbox/id",
 		"/home/chrisfoster/www/Homestead/Vagrantfile",
 		"/home/chrisfoster/python/monster.py",
@@ -219,7 +270,7 @@
 	],
 	"find":
 	{
-		"height": 25.0
+		"height": 38.0
 	},
 	"find_in_files":
 	{
@@ -250,85 +301,59 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "database/factories/UserFactory.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 843,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								752,
-								752
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "app/Http/Controllers/TodosController.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 275,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								264,
-								264
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "routes/web.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 638,
+						"buffer_size": 1114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								634,
-								634
+								1110,
+								1110
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 813.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/todos.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 972,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								883,
+								883
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -338,50 +363,20 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "resources/views/todos.blade.php",
+					"buffer": 2,
+					"file": "app/Http/Controllers/TodosController.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2527,
+						"buffer_size": 1438,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2387,
-								2387
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 675.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "resources/views/welcome.blade.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2392,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								2392
+								226,
+								226
 							]
 						],
 						"settings":
@@ -394,29 +389,87 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": ".env",
+					"buffer": 3,
+					"file": "resources/views/layout.blade.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 575,
+						"buffer_size": 2454,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								2113,
+								2113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2277.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/chrisfoster/www/laravelblog/.env",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 588,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/update.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -430,11 +483,11 @@
 	],
 	"incremental_find":
 	{
-		"height": 25.0
+		"height": 38.0
 	},
 	"input":
 	{
-		"height": 35.0
+		"height": 76.0
 	},
 	"layout":
 	{
@@ -475,7 +528,7 @@
 	"project": "laraveltest.sublime-project",
 	"replace":
 	{
-		"height": 46.0
+		"height": 72.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -513,7 +566,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 415.0,
+	"side_bar_width": 346.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

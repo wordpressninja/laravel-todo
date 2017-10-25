@@ -51,4 +51,9 @@ class TodosController extends Controller
         return redirect()->back();
     }
 
+    public function share()
+    {
+        
+    }
+
 }
